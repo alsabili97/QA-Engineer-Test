@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Cannot Click Virtual Account</name>
+   <tag></tag>
+   <elementGuidId>a30e1f03-2939-4be8-beac-37cda845be8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.relative.px-4.py-2.w-max.border-1.border-solid.overflow-hidden.rectangle.border-neutral-700.cursor-not-allowed.overflow-visible.rounded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/main/section/div/div[2]/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;app&quot;)/div[@class=&quot;min-h-screen flex flex-col bg-neutral-1000&quot;]/div[@class=&quot;mw-layout-content&quot;]/main[@class=&quot;container mx-auto grid grid-cols-12 mt-6 my-10&quot;]/section[@class=&quot;col-span-8&quot;]/div[@class=&quot;bg-neutral-900 p-4 md:p-6 rounded-2&quot;]/div[@class=&quot;grid grid-cols-12 mt-6&quot;]/div[@class=&quot;col-span-9&quot;]/div[@class=&quot;flex flex-wrap&quot;]/div[@class=&quot;relative mr-2 mb-2&quot;]/div[@class=&quot;relative px-4 py-2 w-max border-1 border-solid overflow-hidden rectangle border-neutral-700 cursor-not-allowed overflow-visible rounded&quot;][count(. | //*[(text() = 'Virtual Account' or . = 'Virtual Account')]) = count(//*[(text() = 'Virtual Account' or . = 'Virtual Account')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1e39a6d7-1d59-4435-a2f2-8d6a6e0b575c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative px-4 py-2 w-max border-1 border-solid overflow-hidden rectangle border-neutral-700 cursor-not-allowed overflow-visible rounded</value>
+      <webElementGuid>3df16901-2662-4a8e-96a9-d52120033024</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f2234cbf-f953-473e-ba7f-e9c24011641d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>payment-item-VirtualAccount</value>
+      <webElementGuid>a2e522c6-11e7-4bc1-9552-8cae6bf84e51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Virtual Account</value>
+      <webElementGuid>5f9e96a5-8c50-492d-a626-da2f4ff8ca5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;min-h-screen flex flex-col bg-neutral-1000&quot;]/div[@class=&quot;mw-layout-content&quot;]/main[@class=&quot;container mx-auto grid grid-cols-12 mt-6 my-10&quot;]/section[@class=&quot;col-span-8&quot;]/div[@class=&quot;bg-neutral-900 p-4 md:p-6 rounded-2&quot;]/div[@class=&quot;grid grid-cols-12 mt-6&quot;]/div[@class=&quot;col-span-9&quot;]/div[@class=&quot;flex flex-wrap&quot;]/div[@class=&quot;relative mr-2 mb-2&quot;]/div[@class=&quot;relative px-4 py-2 w-max border-1 border-solid overflow-hidden rectangle border-neutral-700 cursor-not-allowed overflow-visible rounded&quot;]</value>
+      <webElementGuid>63118506-4ed8-46a0-93c4-3c02b78e0d20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/main/section/div/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>1aa7b2be-2d93-4d45-b07a-709423df0c6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Metode:'])[1]/following::div[4]</value>
+      <webElementGuid>974b2422-debd-47d8-861c-fe3daafa19eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metode Pembayaran'])[1]/following::div[6]</value>
+      <webElementGuid>0d9ae394-4603-4cdd-9c63-282f46e43550</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Voucher yang dipakai hanya berlaku untuk metode pembayaran tertentu'])[1]/preceding::div[22]</value>
+      <webElementGuid>9be86ade-dcca-4489-be37-481c0c26ca25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hemat Rp300.000'])[1]/preceding::div[23]</value>
+      <webElementGuid>0622023a-8149-432d-a500-ecc5c391b36b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div</value>
+      <webElementGuid>e3de37bd-1a53-4230-a95e-93658e6dc69c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Virtual Account' or . = 'Virtual Account')]</value>
+      <webElementGuid>29d75d53-6eb4-4a81-a23a-4a626cf130ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hemat Rp500.000'])[1]/preceding::div[23]</value>
+      <webElementGuid>93c4da0a-0f37-4433-be82-d1dfc6d0ace2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

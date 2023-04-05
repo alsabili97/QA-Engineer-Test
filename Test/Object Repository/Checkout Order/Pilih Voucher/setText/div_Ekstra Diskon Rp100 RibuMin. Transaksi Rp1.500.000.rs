@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ekstra Diskon Rp100 RibuMin. Transaksi Rp1.500.000</name>
+   <tag></tag>
+   <elementGuidId>c7414262-2f82-4b31-af59-808f6df36a05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-root']/div/div/div/div/div/div/div[3]/div[7]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bb12fcdd-92d9-448e-8548-79c4aa32b058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-between items-center px-5 pt-6 pb-3</value>
+      <webElementGuid>298418fe-a4bb-40db-820c-0b8063325c61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ekstra Diskon Rp100 RibuMin. Transaksi Rp1.500.000 </value>
+      <webElementGuid>24b80b07-d109-409f-821e-248fef960b4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-root&quot;)/div[1]/div[@class=&quot;modal fixed h-full w-full top-0 left-0 flex items-center justify-center bg-neutral-1000 bg-opacity-50&quot;]/div[@class=&quot;content relative bg-clip-padding outline-none w-1-3&quot;]/div[@class=&quot;body&quot;]/div[@class=&quot;relative rounded-4 modal-container-wrap bg-neutral-900&quot;]/div[@class=&quot;px-4 pt-4&quot;]/div[@class=&quot;overflow-y-auto md:h-90 pb-12 md:pb-0&quot;]/div[@class=&quot;ticket rounded mb-4&quot;]/div[1]/div[@class=&quot;flex justify-between items-center px-5 pt-6 pb-3&quot;]</value>
+      <webElementGuid>50bedf44-d1f4-46d2-9307-7e9208035cb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-root']/div/div/div/div/div/div/div[3]/div[7]/div/div</value>
+      <webElementGuid>53e119b2-3836-4dc2-9f9b-89630d343eef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gunakan'])[6]/following::div[3]</value>
+      <webElementGuid>f3d4ad80-9e0e-4744-8cbb-fb5c702b72c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hingga 23 Apr 2023'])[2]/following::div[4]</value>
+      <webElementGuid>89617f99-8f72-45d6-803b-a33946399c61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hingga 30 Apr 2023'])[1]/preceding::div[3]</value>
+      <webElementGuid>52d0f5ba-e00b-460d-a94d-f18b644fca72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[7]/div/div</value>
+      <webElementGuid>9d36b339-ed3a-4af6-8d45-e83853a72ab7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ekstra Diskon Rp100 RibuMin. Transaksi Rp1.500.000 ' or . = 'Ekstra Diskon Rp100 RibuMin. Transaksi Rp1.500.000 ')]</value>
+      <webElementGuid>a21c0b50-c7f8-4a7f-8b61-04ac7701e933</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

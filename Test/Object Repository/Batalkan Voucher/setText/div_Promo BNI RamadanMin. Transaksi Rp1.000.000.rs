@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Promo BNI RamadanMin. Transaksi Rp1.000.000</name>
+   <tag></tag>
+   <elementGuidId>9892271f-def7-464d-a55b-9cbd18683333</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.justify-between.items-center.px-5.pt-6.pb-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-root']/div/div/div/div/div/div/div[3]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>57a4a3af-5cc0-488c-ad49-ffd616f79135</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-between items-center px-5 pt-6 pb-3</value>
+      <webElementGuid>5cf054f8-d2c4-4139-aac5-227fe4f7cc2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Promo BNI RamadanMin. Transaksi Rp1.000.000 </value>
+      <webElementGuid>6e61603a-a1bc-47fd-b13a-dfdcdaaabe77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-root&quot;)/div[1]/div[@class=&quot;modal fixed h-full w-full top-0 left-0 flex items-center justify-center bg-neutral-1000 bg-opacity-50&quot;]/div[@class=&quot;content relative bg-clip-padding outline-none w-1-3&quot;]/div[@class=&quot;body&quot;]/div[@class=&quot;relative rounded-4 modal-container-wrap bg-neutral-900&quot;]/div[@class=&quot;px-4 pt-4&quot;]/div[@class=&quot;overflow-y-auto md:h-90 pb-12 md:pb-0&quot;]/div[@class=&quot;ticket rounded mb-4 active&quot;]/div[1]/div[@class=&quot;flex justify-between items-center px-5 pt-6 pb-3&quot;]</value>
+      <webElementGuid>e1ce0a48-887a-4985-b492-993339dfbf4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-root']/div/div/div/div/div/div/div[3]/div/div/div</value>
+      <webElementGuid>d97b7400-37d7-4b98-827f-c9bbe1e8f6dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pakai Voucher'])[1]/following::div[12]</value>
+      <webElementGuid>008d4665-8be8-4f39-87d5-350630c5dd42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2023 Jamtangan.com, All Rights Reserved.'])[1]/following::div[21]</value>
+      <webElementGuid>d8043aea-e43c-45f4-8b83-46105435c7f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hingga 23 Apr 2023'])[1]/preceding::div[3]</value>
+      <webElementGuid>049e5f81-ab0e-4e75-8dc6-a4a224d05d56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[3]/div/div/div</value>
+      <webElementGuid>85b930dc-b0ac-43e7-be8e-e08a2a58f891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Promo BNI RamadanMin. Transaksi Rp1.000.000 ' or . = 'Promo BNI RamadanMin. Transaksi Rp1.000.000 ')]</value>
+      <webElementGuid>1399e373-acf3-40ce-bc36-6011251f9000</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

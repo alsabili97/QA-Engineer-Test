@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Virtual Account</name>
+   <tag></tag>
+   <elementGuidId>9c2462e8-3cd4-443a-9518-72d4e8505ac6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.relative.px-4.py-2.w-max.border-1.border-solid.overflow-hidden.rectangle.border-neutral-300.cursor-pointer.overflow-visible.rounded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/main/section/div/div[2]/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;app&quot;)/div[@class=&quot;min-h-screen flex flex-col bg-neutral-1000&quot;]/div[@class=&quot;mw-layout-content&quot;]/main[@class=&quot;container mx-auto grid grid-cols-12 mt-6 my-10&quot;]/section[@class=&quot;col-span-8&quot;]/div[@class=&quot;bg-neutral-900 p-4 md:p-6 rounded-2&quot;]/div[@class=&quot;grid grid-cols-12 mt-6&quot;]/div[@class=&quot;col-span-9&quot;]/div[@class=&quot;flex flex-wrap&quot;]/div[@class=&quot;relative mr-2 mb-2&quot;]/div[@class=&quot;relative px-4 py-2 w-max border-1 border-solid overflow-hidden rectangle border-neutral-300 cursor-pointer overflow-visible rounded&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3a29462e-ea14-4c35-818b-9dbcc436a391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative px-4 py-2 w-max border-1 border-solid overflow-hidden rectangle border-neutral-300 cursor-pointer overflow-visible rounded</value>
+      <webElementGuid>8c2947c9-5fd4-4845-ad30-93a0c80d9a2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9800471e-0347-497b-87be-9a6be61efe9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>payment-item-VirtualAccount</value>
+      <webElementGuid>ee48a375-39a1-48f8-8ba0-70b7b265eca4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Virtual Account</value>
+      <webElementGuid>44281a51-1edd-4e5e-afcd-cedbbb1d4407</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;min-h-screen flex flex-col bg-neutral-1000&quot;]/div[@class=&quot;mw-layout-content&quot;]/main[@class=&quot;container mx-auto grid grid-cols-12 mt-6 my-10&quot;]/section[@class=&quot;col-span-8&quot;]/div[@class=&quot;bg-neutral-900 p-4 md:p-6 rounded-2&quot;]/div[@class=&quot;grid grid-cols-12 mt-6&quot;]/div[@class=&quot;col-span-9&quot;]/div[@class=&quot;flex flex-wrap&quot;]/div[@class=&quot;relative mr-2 mb-2&quot;]/div[@class=&quot;relative px-4 py-2 w-max border-1 border-solid overflow-hidden rectangle border-neutral-300 cursor-pointer overflow-visible rounded&quot;]</value>
+      <webElementGuid>bc9e11ac-5bf2-47aa-9c8d-d65decb06c37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/main/section/div/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>fa248d9d-2751-4ec8-8ccd-1536643abcea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Metode:'])[1]/following::div[4]</value>
+      <webElementGuid>e6fc3829-b57f-44fe-9b3a-a6f5b924cb07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metode Pembayaran'])[1]/following::div[6]</value>
+      <webElementGuid>d053f43d-323b-4491-95c5-22d175332b86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hemat Rp50.000'])[1]/preceding::div[22]</value>
+      <webElementGuid>26a41d58-6094-473d-aa42-7a34f02fcd97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ringkasan Belanja'])[1]/preceding::div[31]</value>
+      <webElementGuid>94a57506-930e-4573-82f1-8bc01deec459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div</value>
+      <webElementGuid>a7e4b47f-97fd-4b51-9fa6-1d3392437cfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Virtual Account' or . = 'Virtual Account')]</value>
+      <webElementGuid>83a0d490-7333-4ed8-9a8b-b44510434bde</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

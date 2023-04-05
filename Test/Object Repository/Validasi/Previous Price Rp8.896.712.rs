@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Previous Price Rp8.896.712</name>
+   <tag></tag>
+   <elementGuidId>c88ad37d-09c1-4054-9023-b94f046492bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div[2]/div[3]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Rp8.896.712' or . = 'Rp8.896.712')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f203d352-8858-46e9-a629-884bac929678</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-span-2 md:col-span-4 text-right md:text-left py-4 md:py-1 text-primary-1 md:text-neutral-300 text-base font-black md:font-bold md:text-4xl</value>
+      <webElementGuid>14aa2f7d-dc66-4bb2-b7e2-e01da09f9039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp8.896.712</value>
+      <webElementGuid>e70188e8-aad3-47c1-819e-1f629208a63d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;min-h-screen flex flex-col bg-neutral-1000&quot;]/div[@class=&quot;mw-layout-content&quot;]/div[@class=&quot;container md:w-6-12 mx-auto text-neutral-300 mt-4 md:mt-16&quot;]/div[@class=&quot;bg-neutral-900 mt-4&quot;]/div[@class=&quot;px-4 border-b-1 border-neutral-800 md:pb-8&quot;]/div[@class=&quot;grid grid-cols-4 items-center md:w-6-12 mx-auto&quot;]/div[@class=&quot;col-span-2 md:col-span-4 text-right md:text-left py-4 md:py-1 text-primary-1 md:text-neutral-300 text-base font-black md:font-bold md:text-4xl&quot;]</value>
+      <webElementGuid>330829a8-7b25-4806-9014-ddda8e38a33a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div[2]/div[3]/div/div[2]</value>
+      <webElementGuid>fb269a02-86d4-4528-be05-dac789a865fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Tagihan'])[1]/following::div[1]</value>
+      <webElementGuid>b4913a1c-873d-4787-b85c-cc5cd30990c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='salin'])[1]/following::div[4]</value>
+      <webElementGuid>acab18cb-7392-45d5-bb0f-8b3220ebf392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat cara pembayaran'])[1]/preceding::div[1]</value>
+      <webElementGuid>9f0a1a63-4ed8-4e7e-a1c1-3e25753d4f65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pesananmu akan diproses setelah pembayaran sudah terverifikasi.'])[1]/preceding::div[3]</value>
+      <webElementGuid>84e5201f-4aeb-4dad-85ca-5a4d18ac5327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rp8.896.712']/parent::*</value>
+      <webElementGuid>24b7e559-7bbc-408c-9557-3b814acc2911</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]</value>
+      <webElementGuid>80a880e9-307c-49a2-ae1a-bf0dfad33585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Rp8.896.712' or . = 'Rp8.896.712')]</value>
+      <webElementGuid>206cfb36-bb5f-43f8-af14-2ccd99e61887</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

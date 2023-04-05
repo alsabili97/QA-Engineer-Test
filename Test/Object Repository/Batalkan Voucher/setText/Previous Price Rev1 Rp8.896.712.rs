@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Previous Price Rev1 Rp8.896.712</name>
+   <tag></tag>
+   <elementGuidId>311134d7-cc04-445d-9608-85bba4af2852</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/main/section[2]/div[2]/div[3]/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;app&quot;)/div[@class=&quot;min-h-screen flex flex-col bg-neutral-1000&quot;]/div[@class=&quot;mw-layout-content&quot;]/main[@class=&quot;container mx-auto grid grid-cols-12 mt-6 my-10&quot;]/section[@class=&quot;col-span-4 px-4&quot;]/div[@class=&quot;md:bg-neutral-900 md:rounded-b-2 md:px-6 md:pb-6 md:pt-4&quot;]/div[@class=&quot;fixed bottom-0 w-full bg-neutral-800 md:bg-neutral-900 md:relative px-4 md:px-0 border-t-1 border-neutral-700 md:border-none&quot;]/div[@class=&quot;border-t-1 border-neutral-800 py-4 my-0 md:my-4 md:mb-0 md:pb-0 grid grid-cols-4&quot;]/div[@class=&quot;flex flex-col md:flex-wrap md:grid grid-cols-4 text-sm col-span-2 md:col-span-4 md:border-b-1 border-neutral-800 md:mb-4&quot;]/div[@class=&quot;col-span-2 font-black text-primary-1 text-sm text-right&quot;]/div[@class=&quot;text-sm md:text-xl font-black&quot;]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d643192f-e012-4518-bb8f-6b487f1f03c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm md:text-xl font-black</value>
+      <webElementGuid>975c3434-1dec-496e-b291-9bfc36dd1573</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp8.896.712</value>
+      <webElementGuid>eed5b7ae-af3b-455e-965b-cc0b67f8c066</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;min-h-screen flex flex-col bg-neutral-1000&quot;]/div[@class=&quot;mw-layout-content&quot;]/main[@class=&quot;container mx-auto grid grid-cols-12 mt-6 my-10&quot;]/section[@class=&quot;col-span-4 px-4&quot;]/div[@class=&quot;md:bg-neutral-900 md:rounded-b-2 md:px-6 md:pb-6 md:pt-4&quot;]/div[@class=&quot;fixed bottom-0 w-full bg-neutral-800 md:bg-neutral-900 md:relative px-4 md:px-0 border-t-1 border-neutral-700 md:border-none&quot;]/div[@class=&quot;border-t-1 border-neutral-800 py-4 my-0 md:my-4 md:mb-0 md:pb-0 grid grid-cols-4&quot;]/div[@class=&quot;flex flex-col md:flex-wrap md:grid grid-cols-4 text-sm col-span-2 md:col-span-4 md:border-b-1 border-neutral-800 md:mb-4&quot;]/div[@class=&quot;col-span-2 font-black text-primary-1 text-sm text-right&quot;]/div[@class=&quot;text-sm md:text-xl font-black&quot;]</value>
+      <webElementGuid>f0f4ff64-8877-4bcd-908d-d9d7c67080ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/main/section[2]/div[2]/div[3]/div/div/div[2]/div</value>
+      <webElementGuid>d4e4c291-4c35-4bf6-9b4a-a42d4d4cd7db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Belanja:'])[1]/following::div[2]</value>
+      <webElementGuid>c44280b6-d9ce-49c8-b1c9-0a2be5d9a049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S&amp;K yang berlaku di sini, ya!'])[1]/following::div[6]</value>
+      <webElementGuid>4069c0e3-02cf-468b-84fa-1322fc3bc4da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAPATKAN POINT 44.280'])[1]/preceding::div[1]</value>
+      <webElementGuid>f6ff0f24-5337-4500-bc63-6efde2c18076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='order sekarang'])[1]/preceding::div[3]</value>
+      <webElementGuid>446aa6e9-d304-4500-9adc-1a2b1f62f318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rp8.896.712']/parent::*</value>
+      <webElementGuid>d31d8a7b-175f-424c-8377-1ed73a953476</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div</value>
+      <webElementGuid>774027c8-e518-4b1b-ad91-444e69119e3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Rp8.896.712' or . = 'Rp8.896.712')]</value>
+      <webElementGuid>2532cb1d-53d2-4009-95b9-15f81369dbb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,284 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Machtwatch - No.1 Online Watch Store in Indonesia/li_JNE YES   1 HariRp18.000",
+      "brokenLocator": "//*[(text() \u003d \u0027JNE YES  | 1 HariRp18.000\u0027 or . \u003d \u0027JNE YES  | 1 HariRp18.000\u0027)]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/div[2]/main/section/div[2]/div[2]/div/ul/li[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_No. 1 Online Watch Store in Indonesia/button_Masuk",
+      "brokenLocator": "//div[@id\u003d\u0027modal-root\u0027]/div/div/div/div/div/div/div/form/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button[(text() \u003d \u0027Masuk\u0027 or . \u003d \u0027Masuk\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_No. 1 Online Watch Store in Indonesia/button_Masuk_customAttributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_No. 1 Online Watch Store in Indonesia/span_Password_ic-eye-crossed text-2xl text-_268ab1",
+      "brokenLocator": "//button[@id\u003d\u0027login-button\u0027]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027modal-root\u0027]/div/div/div/div/div/div/div/form/div/div/fieldset/div/div[2]/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_No. 1 Online Watch Store in Indonesia/span_Password_ic-eye-crossed text-2xl text-_268ab1_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_No. 1 Online Watch Store in Indonesia/iframe_Konfirmasi Pembayaran_moe-onsite-cam_77f9c4",
+      "brokenLocator": "//*[@id \u003d \u0027moe-onsite-campaign-6429a23bf0ead43a8c7d9222\u0027]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//iframe",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_No. 1 Online Watch Store in Indonesia/iframe_Konfirmasi Pembayaran_moe-onsite-cam_77f9c4_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Machtwatch - No.1 Online Watch Store in Indonesia/button_Lanjutkan",
+      "brokenLocator": "//*[(text() \u003d \u0027Lanjutkan\u0027 or . \u003d \u0027Lanjutkan\u0027)]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Terakhir Dilihat\u0027])[1]/preceding::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Machtwatch - No.1 Online Watch Store in Indonesia/button_Lanjutkan_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Seiko Prospex SFK003J1 Sumo Solar GMT Divers Sea Green Dial Stainless Steel Strap  Jamtangan.com/button_Beli sekarang",
+      "brokenLocator": "//*[(text() \u003d \u0027Beli sekarang\u0027 or . \u003d \u0027Beli sekarang\u0027)]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "button.mw-ripple-effect.btn.rounded.text-sm.relative.overflow-hidden.w-full.btn-filled.text-neutral-1000.bg-primary-1.uppercase",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Seiko Prospex SFK003J1 Sumo Solar GMT Divers Sea Green Dial Stainless Steel Strap  Jamtangan.com/button_Beli sekarang_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_No. 1 Online Watch Store in Indonesia/p_Breitling Avenger A17318101C1X1 Automatic 43 Chronometer Blue Dial Blue Calfskin Leather Strap",
+      "brokenLocator": "//*[(text() \u003d \u0027Breitling Avenger A17318101C1X1 Automatic 43 Chronometer Blue Dial Blue Calfskin Leather Strap\u0027 or . \u003d \u0027Breitling Avenger A17318101C1X1 Automatic 43 Chronometer Blue Dial Blue Calfskin Leather Strap\u0027)]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/div[2]/div/section[2]/div[2]/div/div/div/div[2]/div/div/div/a/div/div/div[2]/p",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_No. 1 Online Watch Store in Indonesia/p_Breitling Avenger A17318101C1X1 Automatic 43 Chronometer Blue Dial Blue Calfskin Leather Strap_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Seiko Prospex SFK003J1 Sumo Solar GMT Divers Sea Green Dial Stainless Steel Strap  Jamtangan.com/button_Beli sekarang",
+      "brokenLocator": "//*[(text() \u003d \u0027Beli sekarang\u0027 or . \u003d \u0027Beli sekarang\u0027)]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Stok Toko Offline\u0027])[1]/preceding::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Seiko Prospex SFK003J1 Sumo Solar GMT Divers Sea Green Dial Stainless Steel Strap  Jamtangan.com/button_Beli sekarang_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Akun Baru/Page_No. 1 Online Watch Store in Indonesia/p_Garmin Venu 2 010-02430-70 Smartwatch Digital Dial Blue Granite Rubber Strap",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div/div[2]/div/div[4]/div[2]/div/div/div[3]/div/a/div/div/div[2]/p",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027FREE ONGKIR\u0027])[4]/following::p[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Akun Baru/Page_No. 1 Online Watch Store in Indonesia/p_Garmin Venu 2 010-02430-70 Smartwatch Digital Dial Blue Granite Rubber Strap_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Akun Baru/Page_Machtwatch - No.1 Online Watch Store in Indonesia/button_Gunakan",
+      "brokenLocator": "//div[@id\u003d\u0027modal-root\u0027]/div/div/div/div/div/div[4]/div/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027Gunakan\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Akun Baru/Page_Machtwatch - No.1 Online Watch Store in Indonesia/button_Gunakan_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Akun Baru/Page_Machtwatch - No.1 Online Watch Store in Indonesia/div_Transfer Bank",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div/div[2]/main/section/div/div[2]/div[2]/div/div[2]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/div[2]/main/section/div/div[2]/div[2]/div/div[2]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Akun Baru/Page_Machtwatch - No.1 Online Watch Store in Indonesia/div_Transfer Bank_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Machtwatch - No.1 Online Watch Store in Indonesia/div_Total BelanjaRp33.940.800DAPATKAN POINT 169.500",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div/div[2]/main/section[2]/div[2]/div[3]/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div[3]/div/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Machtwatch - No.1 Online Watch Store in Indonesia/div_Total BelanjaRp33.940.800DAPATKAN POINT 169.500_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Machtwatch - No.1 Online Watch Store in Indonesia/div_Ekstra Diskon Rp50 RibuMin. Transaksi Rp700.000",
+      "brokenLocator": "//*[(text() \u003d \u0027Ekstra Diskon Rp50 RibuMin. Transaksi Rp700.000 \u0027 or . \u003d \u0027Ekstra Diskon Rp50 RibuMin. Transaksi Rp700.000 \u0027)]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Gunakan\u0027])[8]/following::div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Machtwatch - No.1 Online Watch Store in Indonesia/div_Ekstra Diskon Rp50 RibuMin. Transaksi Rp700.000_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Akun Baru/Page_Machtwatch - No.1 Online Watch Store in Indonesia/div_Ekstra Diskon Rp50 RibuMin. Transaksi Rp700.000",
+      "brokenLocator": "//*[(text() \u003d \u0027Ekstra Diskon Rp50 RibuMin. Transaksi Rp700.000 \u0027 or . \u003d \u0027Ekstra Diskon Rp50 RibuMin. Transaksi Rp700.000 \u0027)]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Gunakan\u0027])[8]/following::div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Akun Baru/Page_Machtwatch - No.1 Online Watch Store in Indonesia/div_Ekstra Diskon Rp50 RibuMin. Transaksi Rp700.000_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_No. 1 Online Watch Store in Indonesia/button_Nanti Saja",
+      "brokenLocator": "//button[@onclick\u003d\u0027moeRemoveBanner()\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button[@onclick\u003d\u0027moeRemoveBanner()\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_No. 1 Online Watch Store in Indonesia/button_Nanti Saja_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Machtwatch - No.1 Online Watch Store in Indonesia/div_Ekstra Diskon Rp100 RibuMin. Transaksi Rp1.500.000",
+      "brokenLocator": "//div[@id\u003d\u0027modal-root\u0027]/div/div/div/div/div/div/div[3]/div[7]/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Gunakan\u0027])[6]/following::div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Machtwatch - No.1 Online Watch Store in Indonesia/div_Ekstra Diskon Rp100 RibuMin. Transaksi Rp1.500.000_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Machtwatch - No.1 Online Watch Store in Indonesia/Previeus Price Rp8.896.712",
+      "brokenLocator": "//*[(text() \u003d \u0027Rp8.896.712\u0027 or . \u003d \u0027Rp8.896.712\u0027)]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/div[2]/div/div[2]/div[3]/div/div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Machtwatch - No.1 Online Watch Store in Indonesia/Previeus Price Rp8.896.712_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Checkout Order/Pilih Voucher/setText/li_JNE YES   1 HariRp18.000",
+      "brokenLocator": "//*[(text() \u003d \u0027JNE YES  | 1 HariRp18.000\u0027 or . \u003d \u0027JNE YES  | 1 HariRp18.000\u0027)]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/div[2]/main/section/div[2]/div[2]/div/ul/li[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Checkout Order/Pilih Voucher/setText/li_JNE YES   1 HariRp18.000_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Checkout Order/Pilih Voucher/setText/div_Ekstra Diskon Rp100 RibuMin. Transaksi Rp1.500.000",
+      "brokenLocator": "//div[@id\u003d\u0027modal-root\u0027]/div/div/div/div/div/div/div[3]/div[7]/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Hingga 23 Apr 2023\u0027])[2]/following::div[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Checkout Order/Pilih Voucher/setText/div_Ekstra Diskon Rp100 RibuMin. Transaksi Rp1.500.000_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Checkout Order/Pilih Voucher/Button/button_Gunakan",
+      "brokenLocator": "//div[@id\u003d\u0027modal-root\u0027]/div/div/div/div/div/div[4]/div/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027Gunakan\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Checkout Order/Pilih Voucher/Button/button_Gunakan_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Checkout Order/Payment/input_Pilih Bank_bank-VABCA",
+      "brokenLocator": "//input[@id\u003d\u0027bank-VABCA\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Checkout Order/Payment/input_Pilih Bank_bank-VABCA_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Validasi/Previous Price Rp8.896.712",
+      "brokenLocator": "//*[(text() \u003d \u0027Rp8.896.712\u0027 or . \u003d \u0027Rp8.896.712\u0027)]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//div[3]/div/div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Validasi/Previous Price Rp8.896.712_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Checkout Order/Pilih Voucher/Button/button_Pilih Voucher",
+      "brokenLocator": "//*[(text() \u003d \u0027Pilih Voucher\u0027 or . \u003d \u0027Pilih Voucher\u0027)]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/div[2]/main/section[2]/div/div/div/button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Checkout Order/Pilih Voucher/Button/button_Pilih Voucher_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Checkout Order/Pilih Jam/Button/button_Lanjutkan",
+      "brokenLocator": "//*[(text() \u003d \u0027Lanjutkan\u0027 or . \u003d \u0027Lanjutkan\u0027)]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Terakhir Dilihat\u0027])[1]/preceding::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Checkout Order/Pilih Jam/Button/button_Lanjutkan_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login/Button/button_Nanti Saja",
+      "brokenLocator": "//button[@onclick\u003d\u0027moeRemoveBanner()\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button[@onclick\u003d\u0027moeRemoveBanner()\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Login/Button/button_Nanti Saja_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Checkout Order/Pilih Voucher/Button/button_Pilih Voucher",
+      "brokenLocator": "//*[(text() \u003d \u0027Pilih Voucher\u0027 or . \u003d \u0027Pilih Voucher\u0027)]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Metode Pembayaran\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Checkout Order/Pilih Voucher/Button/button_Pilih Voucher_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Checkout Order/Payment/div_Virtual Account",
+      "brokenLocator": "id(\"app\")/div[@class\u003d\"min-h-screen flex flex-col bg-neutral-1000\"]/div[@class\u003d\"mw-layout-content\"]/main[@class\u003d\"container mx-auto grid grid-cols-12 mt-6 my-10\"]/section[@class\u003d\"col-span-8\"]/div[@class\u003d\"bg-neutral-900 p-4 md:p-6 rounded-2\"]/div[@class\u003d\"grid grid-cols-12 mt-6\"]/div[@class\u003d\"col-span-9\"]/div[@class\u003d\"flex flex-wrap\"]/div[@class\u003d\"relative mr-2 mb-2\"]/div[@class\u003d\"relative px-4 py-2 w-max border-1 border-solid overflow-hidden rectangle border-neutral-300 cursor-pointer overflow-visible rounded\"]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Metode Pembayaran\u0027])[1]/following::div[6]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Checkout Order/Payment/div_Virtual Account_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Checkout Order/Pilih Voucher/setText/div_Khusus Pengguna BaruMin. Transaksi Rp750.000",
+      "brokenLocator": "//div[@id\u003d\u0027modal-root\u0027]/div/div/div/div/div/div/div[3]/div[8]/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[(text() \u003d \u0027Khusus Pengguna BaruMin. Transaksi Rp750.000 \u0027 or . \u003d \u0027Khusus Pengguna BaruMin. Transaksi Rp750.000 \u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Checkout Order/Pilih Voucher/setText/div_Khusus Pengguna BaruMin. Transaksi Rp750.000_customAttributes.png"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_OKE</name>
+   <tag></tag>
+   <elementGuidId>0210c312-37e0-40cc-b3b6-011dda913bcc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='driver-popover-item']/div[4]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.driver-close-btn.driver-close-only-btn</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'OKE' or . = 'OKE')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d4e6e932-97ce-4ed5-a5c8-cd108f716ecd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>driver-close-btn driver-close-only-btn</value>
+      <webElementGuid>9122cc1d-9328-4ad5-950f-0c436f22cc0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OKE</value>
+      <webElementGuid>ae705cc6-e564-4844-ab0e-962d076c9d02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;driver-popover-item&quot;)/div[@class=&quot;driver-clearfix driver-popover-footer&quot;]/button[@class=&quot;driver-close-btn driver-close-only-btn&quot;]</value>
+      <webElementGuid>36162850-a9e1-4b38-91f2-447dd0080cae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='driver-popover-item']/div[4]/button</value>
+      <webElementGuid>328adecf-23e4-4914-be85-74c71f779f63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kamu bisa pilih beragam voucher menarik yang siap kamu pakai.'])[1]/following::button[1]</value>
+      <webElementGuid>a21950f7-8405-4563-b1b8-7951be48a250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sekarang Ada Banyak Pilihan Promo!'])[1]/following::button[1]</value>
+      <webElementGuid>faddeffe-a90e-4b1b-97d1-7471e9dbbcdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='← Previous'])[1]/preceding::button[1]</value>
+      <webElementGuid>14a8ab6d-aa0b-47d8-a76d-2430ba447283</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Done'])[1]/preceding::button[2]</value>
+      <webElementGuid>ae4b976d-7626-4955-aebc-dfc05c57ca7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OKE']/parent::*</value>
+      <webElementGuid>da56be33-3af5-453e-a3a1-5430cce7b32c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>ed6126c2-e690-44e7-8b34-0a2aa6eb9519</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'OKE' or . = 'OKE')]</value>
+      <webElementGuid>524b1308-8904-416e-8173-5e284685e92e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
